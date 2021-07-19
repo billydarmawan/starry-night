@@ -1,0 +1,25 @@
+{
+  "name": "bersama-bintang",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "export": "next export",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "next": "11.0.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-flip-toolkit": "^7.0.13"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.14",
+    "eslint": "7.31.0",
+    "eslint-config-next": "11.0.1",
+    "typescript": "^4.3.5"
+  }
+}
